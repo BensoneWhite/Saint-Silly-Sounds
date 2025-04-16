@@ -1,0 +1,11 @@
+[ADD]Beep : Beep/vol=0.2
+[ADD]Boom : Boom/vol=0.25
+[ADD]Buawa : Buawa/vol=0.25
+[ADD]Damn : Damn/vol=0.25
+[ADD]Gong : Gong/vol=0.225
+[ADD]GunShot : GunShot/vol=0.2
+[ADD]pixelated : pixelated/vol=0.2
+[ADD]scotlandBoom : scotlandBoom/vol=0.3
+[ADD]SUS : SUS/vol=0.125
+[ADD]weezer : weezer/vol=0.15
+[ADD]YEOW : YEOW/vol=0.175

@@ -1,0 +1,16 @@
+{
+  "Title": "Silly Ascension Sounds",
+  "Description": "BLOW UP PANCAKES WITH MIND!!!!!!!",
+  "ID": "Ascensionsounds",
+  "Version": "1.2.1",
+  "TargetGameVersion": "v1.10.2",
+  "Requirements": "",
+  "RequirementNames": "",
+  "Authors": "BensoneWhite",
+  "Visibility": "Public",
+  "Tags": [
+    "Cosmetics"
+  ],
+  "WorkshopID": 2964730595,
+  "UploadFilesOnly": true
+}
